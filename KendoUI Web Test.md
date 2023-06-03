@@ -5,17 +5,17 @@
 
 ### 功能
 - 書籍資料查詢
-![](https://hackmd.io/_uploads/HyARTsuLh.png)
+![image](https://hackmd.io/_uploads/HyARTsuLh.png)
 - 書籍資料新增
-![](https://hackmd.io/_uploads/SyF-Ci_8h.png)
+![image](https://hackmd.io/_uploads/SyF-Ci_8h.png)
 
 新增結果
-![](https://hackmd.io/_uploads/r1XSRj_In.png)
+![image](https://hackmd.io/_uploads/r1XSRj_In.png)
 
 - 書籍資料刪除
 刪除TheBook
-![](https://hackmd.io/_uploads/r1cdRj_Un.png)
+![image](https://hackmd.io/_uploads/r1cdRj_Un.png)
 成功刪除
-![](https://hackmd.io/_uploads/SydKAodLn.png)
+![image](https://hackmd.io/_uploads/SydKAodLn.png)
 
 - Kendogrid顯示書籍資料
